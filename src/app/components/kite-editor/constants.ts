@@ -1,0 +1,9 @@
+export const GIZMO_SIZE = 128;
+export const TWEEN_MS = 500;
+export const CAM_DIST = 8;
+export const BRUSH_R = 0.028;
+export const MIN_BRUSH_STEP = 0.04;
+export const MM_PER_UNIT = 100;
+export const A3_LONG_MM = 420;
+export const A3_SHORT_MM = 297;
+export const PRESET_COLORS = ['#ff3333', '#ff8800', '#ffdd00', '#33cc44', '#3388ff', '#aa33ff', '#ff33aa', '#ffffff', '#aaaaaa', '#555555', '#000000', '#00cccc'];
